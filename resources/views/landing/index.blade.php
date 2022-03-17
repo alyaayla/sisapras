@@ -75,7 +75,7 @@
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.html">
-                                <img src="assets1/images/logo.svg" alt="Logo">
+                                <!-- <img src="assets1/images/logo.svg" alt="Logo"> -->
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -338,10 +338,10 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-8">
                         <div class="footer-about mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                            <a class="logo" href="#">
+                            <!-- <a class="logo" href="#">
                                 <img src="assets1/images/logo.svg" alt="logo">
-                            </a>
-                            <p class="text">Lorem ipsum dolor sit amet consetetur sadipscing elitr, sederfs diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
+                            </a> -->
+                            <!-- <p class="text">Lorem ipsum dolor sit amet consetetur sadipscing elitr, sederfs diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p> -->
                             <ul class="social">
                                 <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
                                 <li><a href="#"><i class="lni-twitter-filled"></i></a></li>
@@ -387,7 +387,7 @@
                                 <li>+809272561823</li>
                                 <li>info@gmail.com</li>
                                 <li>www.yourweb.com</li>
-                                <li>123 Stree New York City , United <br> States Of America 750.</li>
+                                <li>Losarang, Indramayu <br> Jawa Barat, Indramayu</li>
                             </ul>
                         </div> <!-- footer contact -->
                     </div>
